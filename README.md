@@ -1,2 +1,3 @@
-Simple GP
-Minialist genetic programming module
+# Simple GP
+
+Minimal genetic programming module
